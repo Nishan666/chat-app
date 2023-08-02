@@ -62,11 +62,10 @@ If the installation was successful, you should be able to run the following comm
 ### You can open multiple tabs to use the chats app.
 
 ## ScreenShots
-![Server](https://github.com/Nishan666/chat-app/blob/main/screenshots/server.png?raw=true)
-![Client](https://github.com/Nishan666/chat-app/blob/main/screenshots/client.png?raw=true)
-![Chat App](https://github.com/Nishan666/chat-app/blob/main/screenshots/chatApp.png?raw=true)
 
-
+![Server](/screenshots/server.png) 
+![Client](/screenshots/client.png)
+![Chat App](/screenshots/client.png)
 
 
 
